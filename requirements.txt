@@ -1,0 +1,8 @@
+streamlit
+langchain
+langchain-groq
+langchain-pinecone
+pinecone
+python-dotenv
+pypdf
+requests
